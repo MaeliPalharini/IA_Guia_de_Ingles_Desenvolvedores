@@ -1,4 +1,4 @@
-# IA_Guia_ingles_teecnico_desenvolvedores
+# IA_Guia_de_Inglês__Desenvolvedores
 Estratégias eficientes para dominar o vasto e específico vocabulário técnico em inglês, essencial para profissionais da área de tecnologia.
 
 # Vocabulário Técnico em Inglês: Guia para Profissionais de Tecnologia
