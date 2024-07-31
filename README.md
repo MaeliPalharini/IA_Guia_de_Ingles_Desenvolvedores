@@ -8,7 +8,9 @@ Este eBook, criado para profissionais da área de tecnologia, fornece estratégi
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT 4.0 - Criação do roteiro
+<br>
 DALL-E - Geração de Imagens
+<br>
 Gamma - Plataforma de geração do ebook
 
 ## 🧐 Processo de Criação
